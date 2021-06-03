@@ -1,5 +1,6 @@
-### <h1> Hi i´m Sávio Haistém 🦄 <h1>
-  <h2> i´m initializing in JavaScript lenguage <h2>
+<canvas id='canvas'><canvas/>  
+  <h1> Hi i´m Sávio Haistém 🦄 <h1/>
+  <h2> i´m initializing in JavaScript lenguage <h2/>
 
 <!--
 **SavioHaistem/SavioHaistem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
