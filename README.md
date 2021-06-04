@@ -3,5 +3,5 @@
 
 <h2 align="center"> i´m initializing in JavaScript lenguage </h2>
 <p align="center">
-<img src="programar-mao-massa.gif">
+<img src="my-octocat-1622811861618.png">
 </p>
