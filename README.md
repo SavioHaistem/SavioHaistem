@@ -1,6 +1,4 @@
 <p align="center"> <img src="savioname.png" /> <p>
-<h2 align="center"> i´m initializing in JavaScript lenguage </h2>
-
 <p>
 <div align="center">
    <h3> 👨‍💻 technologies </h3>
