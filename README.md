@@ -2,7 +2,7 @@
 <h2 align="center"> i´m initializing in JavaScript lenguage </h2>
 
 <p>
-<div align="left">
+<div align="center">
    <h3> 👨‍💻 technologies </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
