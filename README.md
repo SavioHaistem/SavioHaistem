@@ -5,7 +5,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-5C2D91?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/gimp-FF3366?style=for-the-badge&logo=gimp&logoColor=white" />
+
+
   
   <h3> 💻 Workspace </h3>
  <img src="https://img.shields.io/badge/Windows-10-blue" />
@@ -13,7 +16,8 @@
  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue"
  
 </div>
-<div align="right">
+<div>
+<a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=saviohaistem&show_icons=true&count_private=true&theme=dark" width="500"></a>
 <img width="400px" heigth="400px" src="my-octocat-1622811861618.png">
 </div>
 </p>
