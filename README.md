@@ -1,4 +1,4 @@
-  <h1 align="center" background="red"> Hi i´m Sávio Haistém </h1>
+<p> <img src="" /> <p>
 <h2 align="center"> i´m initializing in JavaScript lenguage </h2>
 
 <p>
