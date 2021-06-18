@@ -26,8 +26,6 @@
 <div align="center">
    <h3>📲 contact </h3>
   
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  
 <a href="https://wa.me/+5584999918236/?text=Olá%20Sávio"> 
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href=" https://wa.me/+5584999918236/?text=Olá%20Sávio"/>
 </a>
