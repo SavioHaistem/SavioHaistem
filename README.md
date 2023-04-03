@@ -18,7 +18,6 @@
    
    
 <div>
-<a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=saviohaistem&show_icons=true&count_private=true&theme=dark" width="400"></a>
 <img width="400px" heigth="400px" src="my-octocat-1622811861618.png">
 </div>
 </p>
