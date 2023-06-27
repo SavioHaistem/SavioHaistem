@@ -9,6 +9,10 @@
 <img src="https://img.shields.io/badge/gimp-FF3366?style=for-the-badge&logo=gimp&logoColor=white" />
 
 
+<br/> [![card](https://github-readme-stats.vercel.app/api?username=SavioHaistem&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+<br/> [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SavioHaistem&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
   
   <h3> 💻 Workspace </h3>
  <img src="https://img.shields.io/badge/Windows-10-blue" />
