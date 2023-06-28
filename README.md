@@ -1,6 +1,6 @@
 <p align="center"> <img src="savioname.png" /> <p>
 
-|<img src="my-octocat-1622811861618.png" width="380">| [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+|<img src="my-octocat-1622811861618.png" width="420">| [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 |-|-|
 
 <div align="center">
